@@ -72,12 +72,5 @@ cll.insert_at_beginning(20)
 cll.insert_at_beginning(30)
 
 cll.display() 
-
-cll.delete_node(20)
-cll.display()  
-
-cll.delete_node(30)
-cll.display()
-
 cll.delete_node(10)
 cll.display()  
